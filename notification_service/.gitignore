@@ -1,0 +1,6 @@
+
+# Notification Service
+notification_service/node_modules/
+notification_service/logs/
+notification_service/.env
+notification_service/dist/
